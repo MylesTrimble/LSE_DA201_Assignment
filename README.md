@@ -11,4 +11,6 @@ This Repository contains:
 
 -------------------------
 
-** The Video Presentation file was too large to upload to repository, so will be uploaded via Canvas.
+** The Video Presentation file was too large to upload to repository, so will be uploaded via Canvas.**
+
+**The other files were also uploaded via Canvas**
