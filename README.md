@@ -5,9 +5,9 @@ Diagnostic Analysis using Python
 
 This Repository contains:
 
-1. Jupyter Notebook
+1. Jupyter Notebook (.ipynb & .py)
 
-2. Report
+2. Report (.pdf)
 
 -------------------------
 
