@@ -1,5 +1,5 @@
 # Trimble_Myles_DA201_Assignment
-Diagnostic Analysitics using Python
+Diagnostic Analytics using Python
 
 -------------------------
 
