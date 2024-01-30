@@ -1,5 +1,5 @@
 # Trimble_Myles_DA201_Assignment
-Diagnostic Analytics using Python
+## Diagnostic Analytics
 
 -------------------------
 
@@ -19,8 +19,8 @@ While it is frustrating when patients do not attend, the reasons why this happen
 
 Therefore, reducing or eliminating missed appointments would be beneficial financially as well as socially. The government needs a data-informed approach to deciding how best to handle this problem. At this stage of the project the two main questions posed by the NHS are:
 
-Has there been adequate staff and capacity in the networks?
-What was the actual utilisation of resources?
+- Has there been adequate staff and capacity in the networks?
+- What was the actual utilisation of resources?
 
 -------------------------
 
